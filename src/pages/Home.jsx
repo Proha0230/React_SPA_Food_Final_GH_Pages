@@ -3,6 +3,7 @@ import {getAllCategories} from '../api';
 import {Preloader} from '../Components/Preloader';
 import {CategoryList} from "../Components/CategoryList";
 
+
 function Home () {
     const [catalog, setCatalog] = useState([]);
 
