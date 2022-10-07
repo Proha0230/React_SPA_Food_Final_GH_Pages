@@ -13,7 +13,7 @@ import {Recipe} from './pages/Recipe';
 function App() {
   return (
    <>
-  <Router>
+  <Router basename='/React_SPA_Food_Final_GH_Pages'>
        <Header/>
          <main className='container content'>
             <Switch>
