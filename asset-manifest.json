@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_SPA_Food_Final_GH_Pages/static/css/main.6505367f.css",
+    "main.js": "/React_SPA_Food_Final_GH_Pages/static/js/main.1331483e.js",
+    "index.html": "/React_SPA_Food_Final_GH_Pages/index.html",
+    "main.6505367f.css.map": "/React_SPA_Food_Final_GH_Pages/static/css/main.6505367f.css.map",
+    "main.1331483e.js.map": "/React_SPA_Food_Final_GH_Pages/static/js/main.1331483e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6505367f.css",
+    "static/js/main.1331483e.js"
+  ]
+}
