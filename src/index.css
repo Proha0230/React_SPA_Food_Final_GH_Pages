@@ -122,6 +122,18 @@ nav .brand-logo {
   color: white;
 }
 
+#search-field{
+  border-bottom: 1px solid #000000;
+  color: #000000 !important;
+  font-size: 20px;
+}
+
+input::placeholder {
+  color: #000000;
+  font-size: 20px;
+}
+
+
 .imgrecipe{
   display: block;
   margin-left: auto;

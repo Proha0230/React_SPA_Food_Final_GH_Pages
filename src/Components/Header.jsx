@@ -5,12 +5,6 @@ function Header() {
         <div className="nav-wrapper">
         <Link to="/" className="brand-logo mybr">React SPA Food</Link>
         <ul id="nav-mobile" className="right hide-on-mes-and-down">
-          <li>
-          <Link to="/about">Abouts</Link>
-          </li>
-          <li>
-          <Link to="/contact">Contact</Link>
-          </li>
         </ul>
       </div>
     </nav>
